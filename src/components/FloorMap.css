@@ -1,0 +1,8 @@
+#FloorMap svg {
+  width: 100vw;
+  height: 100vh;
+}
+
+#L2P0:hover {
+  fill: orange;
+}
