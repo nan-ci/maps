@@ -5,56 +5,43 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="map">
+        <g id="map" fill-rule="nonzero">
             <g id="sits">
-                <g id="L0" transform="translate(0.000000, 1200.000000)" fill-rule="nonzero">
+                <g id="L0" transform="translate(0.000000, 1200.000000)">
                     <rect id="table" fill="#AAAAAA" x="0" y="0" width="600" height="100"></rect>
                     <rect id="L0P0" fill="#D8D8D8" x="0" y="0" width="200" height="100"></rect>
                     <rect id="L0P1" fill="#D8D8D8" x="200" y="0" width="200" height="100"></rect>
                     <rect id="L0P2" fill="#D8D8D8" x="400" y="0" width="200" height="100"></rect>
                 </g>
-                <g id="L1" transform="translate(100.000000, 700.000000)" fill-rule="nonzero">
+                <g id="L1" transform="translate(100.000000, 700.000000)">
                     <rect id="table" fill="#AAAAAA" x="0" y="0" width="400" height="400"></rect>
-                    <rect id="L1P0" fill="#D8D8D8" x="100" y="0" width="200" height="100"></rect>
-                    <rect id="L1P1" fill="#D8D8D8" x="0" y="100" width="200" height="100"></rect>
-                    <rect id="L1P2" fill="#D8D8D8" x="0" y="200" width="200" height="100"></rect>
-                    <rect id="L1P3" fill="#D8D8D8" x="100" y="300" width="200" height="100"></rect>
-                    <rect id="L1P4" fill="#D8D8D8" x="200" y="200" width="200" height="100"></rect>
-                    <rect id="L1P5" fill="#D8D8D8" x="200" y="100" width="200" height="100"></rect>
+                    <rect id="L1P0" fill="#D8D8D8" x="100" y="300" width="200" height="100"></rect>
+                    <rect id="L1P1" fill="#D8D8D8" x="200" y="200" width="200" height="100"></rect>
+                    <rect id="L1P2" fill="#D8D8D8" x="200" y="100" width="200" height="100"></rect>
+                    <rect id="L1P3" fill="#D8D8D8" x="100" y="0" width="200" height="100"></rect>
+                    <rect id="L1P4" fill="#D8D8D8" x="0" y="100" width="200" height="100"></rect>
+                    <rect id="L1P5" fill="#D8D8D8" x="0" y="200" width="200" height="100"></rect>
                 </g>
                 <g id="L2" transform="translate(100.000000, 200.000000)">
-                    <rect id="table" fill="#AAAAAA" fill-rule="nonzero" x="0" y="0" width="400" height="400"></rect>
-                    <g id="sit" transform="translate(0.000000, 100.000000)">
-                        <g id="L2P0">
-                            <rect id="bg" fill="#D8D8D8" fill-rule="nonzero" x="0" y="0" width="200" height="100"></rect>
-                            <text id="login" font-family="ZillaSlab-Bold, Zilla Slab" font-size="30" font-weight="bold" letter-spacing="0.899999738" fill="#000000">
-                                <tspan x="45" y="40">ycribier</tspan>
-                            </text>
-                            <text id="ip" font-family="ZillaSlab-Bold, Zilla Slab" font-size="30" font-weight="bold" letter-spacing="0.899999738" fill="#000000">
-                                <tspan x="140" y="88">.131</tspan>
-                            </text>
-                            <g id="status/active" transform="translate(9.000000, 18.000000)" fill="#7ED321">
-                                <circle id="Oval" cx="13.5" cy="13.5" r="13.5"></circle>
-                            </g>
-                        </g>
-                    </g>
-                    <rect id="L2P1" fill="#D8D8D8" fill-rule="nonzero" x="0" y="200" width="200" height="100"></rect>
-                    <rect id="L2P2" fill="#D8D8D8" fill-rule="nonzero" x="100" y="300" width="200" height="100"></rect>
-                    <rect id="L2P3" fill="#D8D8D8" fill-rule="nonzero" x="200" y="200" width="200" height="100"></rect>
-                    <rect id="L2P4" fill="#D8D8D8" fill-rule="nonzero" x="200" y="100" width="200" height="100"></rect>
-                    <rect id="L2P5" fill="#D8D8D8" fill-rule="nonzero" x="100" y="0" width="200" height="100"></rect>
+                    <rect id="table" fill="#AAAAAA" x="0" y="0" width="400" height="400"></rect>
+                    <rect id="L2P0" fill="#D8D8D8" x="100" y="300" width="200" height="100"></rect>
+                    <rect id="L2P1" fill="#D8D8D8" x="200" y="200" width="200" height="100"></rect>
+                    <rect id="L2P2" fill="#D8D8D8" x="200" y="100" width="200" height="100"></rect>
+                    <rect id="L2P3" fill="#D8D8D8" x="100" y="0" width="200" height="100"></rect>
+                    <rect id="L2P4" fill="#D8D8D8" x="0" y="100" width="200" height="100"></rect>
+                    <rect id="L2P5" fill="#D8D8D8" x="0" y="200" width="200" height="100"></rect>
                 </g>
-                <g id="L3" fill-rule="nonzero">
+                <g id="L3">
                     <rect id="table" fill="#AAAAAA" x="0" y="0" width="600" height="100"></rect>
                     <rect id="L3P0" fill="#D8D8D8" x="0" y="0" width="200" height="100"></rect>
                     <rect id="L3P1" fill="#D8D8D8" x="200" y="0" width="200" height="100"></rect>
                     <rect id="L3P2" fill="#D8D8D8" x="400" y="0" width="200" height="100"></rect>
                 </g>
-                <g id="M0" transform="translate(900.000000, 1200.000000)" fill-rule="nonzero">
+                <g id="M0" transform="translate(900.000000, 1200.000000)">
                     <rect id="table" fill="#AAAAAA" x="0" y="0" width="200" height="100"></rect>
                     <rect id="M0P0" fill="#D8D8D8" x="0" y="0" width="200" height="100"></rect>
                 </g>
-                <g id="M1" transform="translate(700.000000, 700.000000)" fill-rule="nonzero">
+                <g id="M1" transform="translate(700.000000, 700.000000)">
                     <rect id="table" fill="#AAAAAA" x="0" y="0" width="400" height="400"></rect>
                     <rect id="M1P0" fill="#D8D8D8" x="100" y="300" width="200" height="100"></rect>
                     <rect id="M1P1" fill="#D8D8D8" x="200" y="200" width="200" height="100"></rect>
@@ -63,46 +50,46 @@
                     <rect id="M1P4" fill="#D8D8D8" x="0" y="100" width="200" height="100"></rect>
                     <rect id="M1P5" fill="#D8D8D8" x="0" y="200" width="200" height="100"></rect>
                 </g>
-                <g id="M2" transform="translate(700.000000, 200.000000)" fill-rule="nonzero">
+                <g id="M2" transform="translate(700.000000, 200.000000)">
                     <rect id="table" fill="#AAAAAA" x="0" y="0" width="400" height="400"></rect>
-                    <rect id="M2P0" fill="#D8D8D8" x="100" y="0" width="200" height="100"></rect>
-                    <rect id="M2P1" fill="#D8D8D8" x="0" y="100" width="200" height="100"></rect>
-                    <rect id="M2P2" fill="#D8D8D8" x="0" y="200" width="200" height="100"></rect>
-                    <rect id="M2P3" fill="#D8D8D8" x="100" y="300" width="200" height="100"></rect>
-                    <rect id="M2P4" fill="#D8D8D8" x="200" y="200" width="200" height="100"></rect>
-                    <rect id="M2P5" fill="#D8D8D8" x="200" y="100" width="200" height="100"></rect>
+                    <rect id="M2P0" fill="#D8D8D8" x="100" y="300" width="200" height="100"></rect>
+                    <rect id="M2P1" fill="#D8D8D8" x="200" y="200" width="200" height="100"></rect>
+                    <rect id="M2P2" fill="#D8D8D8" x="200" y="100" width="200" height="100"></rect>
+                    <rect id="M2P3" fill="#D8D8D8" x="100" y="0" width="200" height="100"></rect>
+                    <rect id="M2P4" fill="#D8D8D8" x="0" y="100" width="200" height="100"></rect>
+                    <rect id="M2P5" fill="#D8D8D8" x="0" y="200" width="200" height="100"></rect>
                 </g>
-                <g id="M3" transform="translate(700.000000, 0.000000)" fill-rule="nonzero">
+                <g id="M3" transform="translate(700.000000, 0.000000)">
                     <rect id="table" fill="#AAAAAA" x="0" y="0" width="600" height="100"></rect>
                     <rect id="M3P0" fill="#D8D8D8" x="0" y="0" width="200" height="100"></rect>
                     <rect id="M3P1" fill="#D8D8D8" x="200" y="0" width="200" height="100"></rect>
                     <rect id="M3P2" fill="#D8D8D8" x="400" y="0" width="200" height="100"></rect>
                 </g>
-                <g id="R0" transform="translate(1200.000000, 1200.000000)" fill-rule="nonzero">
+                <g id="R0" transform="translate(1200.000000, 1200.000000)">
                     <rect id="table" fill="#AAAAAA" x="0" y="0" width="600" height="100"></rect>
                     <rect id="R0P0" fill="#D8D8D8" x="0" y="0" width="200" height="100"></rect>
                     <rect id="R0P1" fill="#D8D8D8" x="200" y="0" width="200" height="100"></rect>
                     <rect id="R0P2" fill="#D8D8D8" x="400" y="0" width="200" height="100"></rect>
                 </g>
-                <g id="R1" transform="translate(1300.000000, 700.000000)" fill-rule="nonzero">
+                <g id="R1" transform="translate(1300.000000, 700.000000)">
                     <rect id="table" fill="#AAAAAA" x="0" y="0" width="400" height="400"></rect>
-                    <rect id="R1P0" fill="#D8D8D8" x="100" y="0" width="200" height="100"></rect>
-                    <rect id="R1P1" fill="#D8D8D8" x="0" y="100" width="200" height="100"></rect>
-                    <rect id="R1P2" fill="#D8D8D8" x="0" y="200" width="200" height="100"></rect>
-                    <rect id="R1P3" fill="#D8D8D8" x="100" y="300" width="200" height="100"></rect>
-                    <rect id="R1P4" fill="#D8D8D8" x="200" y="200" width="200" height="100"></rect>
-                    <rect id="R1P5" fill="#D8D8D8" x="200" y="100" width="200" height="100"></rect>
+                    <rect id="R1P0" fill="#D8D8D8" x="100" y="300" width="200" height="100"></rect>
+                    <rect id="R1P1" fill="#D8D8D8" x="200" y="200" width="200" height="100"></rect>
+                    <rect id="R1P2" fill="#D8D8D8" x="200" y="100" width="200" height="100"></rect>
+                    <rect id="R1P3" fill="#D8D8D8" x="100" y="0" width="200" height="100"></rect>
+                    <rect id="R1P4" fill="#D8D8D8" x="0" y="100" width="200" height="100"></rect>
+                    <rect id="R1P5" fill="#D8D8D8" x="0" y="200" width="200" height="100"></rect>
                 </g>
-                <g id="R2" transform="translate(1300.000000, 200.000000)" fill-rule="nonzero">
+                <g id="R2" transform="translate(1300.000000, 200.000000)">
                     <rect id="table" fill="#AAAAAA" x="0" y="0" width="400" height="400"></rect>
-                    <rect id="R2P0" fill="#D8D8D8" x="100" y="0" width="200" height="100"></rect>
-                    <rect id="R2P1" fill="#D8D8D8" x="0" y="100" width="200" height="100"></rect>
-                    <rect id="R2P2" fill="#D8D8D8" x="0" y="200" width="200" height="100"></rect>
-                    <rect id="R2P3" fill="#D8D8D8" x="100" y="300" width="200" height="100"></rect>
-                    <rect id="R2P4" fill="#D8D8D8" x="200" y="200" width="200" height="100"></rect>
-                    <rect id="R2P5" fill="#D8D8D8" x="200" y="100" width="200" height="100"></rect>
+                    <rect id="R2P0" fill="#D8D8D8" x="100" y="300" width="200" height="100"></rect>
+                    <rect id="R2P1" fill="#D8D8D8" x="200" y="200" width="200" height="100"></rect>
+                    <rect id="R2P2" fill="#D8D8D8" x="200" y="100" width="200" height="100"></rect>
+                    <rect id="R2P3" fill="#D8D8D8" x="100" y="0" width="200" height="100"></rect>
+                    <rect id="R2P4" fill="#D8D8D8" x="0" y="100" width="200" height="100"></rect>
+                    <rect id="R2P5" fill="#D8D8D8" x="0" y="200" width="200" height="100"></rect>
                 </g>
-                <g id="R3" transform="translate(1400.000000, 0.000000)" fill-rule="nonzero">
+                <g id="R3" transform="translate(1400.000000, 0.000000)">
                     <rect id="table" fill="#AAAAAA" x="0" y="0" width="400" height="100"></rect>
                     <rect id="R3P0" fill="#D8D8D8" x="0" y="0" width="200" height="100"></rect>
                     <rect id="R3P1" fill="#D8D8D8" x="200" y="0" width="200" height="100"></rect>
