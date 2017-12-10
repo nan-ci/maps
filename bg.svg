@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1800px" height="1300px" viewBox="0 0 1800 1300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>tables</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="map" fill-rule="nonzero" fill="#AAAAAA">
+            <g id="tables">
+                <rect id="table" x="0" y="1200" width="600" height="100"></rect>
+                <rect id="table" x="100" y="700" width="400" height="400"></rect>
+                <rect id="table" x="100" y="200" width="400" height="400"></rect>
+                <rect id="table" x="0" y="0" width="600" height="100"></rect>
+                <rect id="table" x="900" y="1200" width="200" height="100"></rect>
+                <rect id="table" x="700" y="700" width="400" height="400"></rect>
+                <rect id="table" x="700" y="200" width="400" height="400"></rect>
+                <rect id="table" x="700" y="0" width="600" height="100"></rect>
+                <rect id="table" x="1200" y="1200" width="600" height="100"></rect>
+                <rect id="table" x="1300" y="700" width="400" height="400"></rect>
+                <rect id="table" x="1300" y="200" width="400" height="400"></rect>
+                <rect id="table" x="1400" y="0" width="400" height="100"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

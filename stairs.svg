@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="60px" viewBox="0 0 120 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>stairs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="map" transform="translate(-780.000000, -1240.000000)">
+            <g id="stairs" transform="translate(780.000000, 1240.000000)">
+                <rect id="Rectangle" fill="#666666" x="90" y="0" width="30" height="60"></rect>
+                <rect id="Rectangle-Copy" fill="#888888" x="60" y="0" width="30" height="60"></rect>
+                <rect id="Rectangle-Copy-2" fill="#666666" x="30" y="0" width="30" height="60"></rect>
+                <rect id="Rectangle-Copy-3" fill="#888888" x="0" y="0" width="30" height="60"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
